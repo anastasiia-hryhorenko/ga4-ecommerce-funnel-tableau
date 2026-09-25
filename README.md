@@ -1,7 +1,8 @@
 # 🛒 E-commerce Conversion Funnel Analysis (GA4 + BigQuery + Tableau)
 
 ## 📌 Project Overview
-This project presents an interactive **E-commerce Conversion Funnel Dashboard** designed for marketing managers to analyze website conversions, user journey steps, and traffic performance. The analysis is based on raw Google Analytics 4 (GA4) public data processed in BigQuery and visualized in Tableau Public.
+This project presents an interactive **E-commerce Conversion Funnel Dashboard** designed for marketing managers to analyze website conversions, user journey steps, and traffic performance. The analysis is based on raw Google Analytics 4 (GA4) public data processed in BigQuery and visualized in Tableau Public.<img width="1295" height="479" alt="dashboard_preview" src="https://github.com/user-attachments/assets/74e5548f-9c7c-4613-ac5d-d604700e4e60" />
+
 
 ---
 
